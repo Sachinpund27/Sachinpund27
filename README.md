@@ -36,6 +36,6 @@
 
 
 ## 🌐 Portfolio
-
-Check out my portfolio: 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://sachinpund27.github.io/Porfolio-web/)
+<a href="" target="_blank">
+ <img src="https://github.com/user-attachments/assets/9d7d620b-e1cb-43dc-a587-0fba162b9f3d" />
+</a>
