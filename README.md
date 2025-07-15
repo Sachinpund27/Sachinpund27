@@ -9,8 +9,6 @@
 
 - I'm looking for help with **Python**
 
-- Ask me about **Python**
-
 - 📫 How to reach me **sachinpund6764@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
