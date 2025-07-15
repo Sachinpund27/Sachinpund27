@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Pund</h1>
+<h1 align="center">(नमस्ते) Hi there, I'm Sachin Pund</h1>
 <h3 align="center">A passionate python backend developer</h3>
 
 - I'm currently working on **Python project**
